@@ -1,0 +1,101 @@
+Student_ID,First_Name,Last_Name,Gender,Email,Phone,Major,Year,Created_date,Updated_date,created by,updated by
+1,Amy,Wall,Other,paula55@bryant.biz,+46 884 505 7079,Computer Science,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+2,Christopher,Morales,Female,alilacey@gmail.com,+33 871 621 0939,Electrical Engineering,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+3,Michael,Duncan,Female,andersoncharles@hale.com,+54 197 791 2783,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+4,Joshua,Miller,Female,rachel35@hotmail.com,+53 230 122 4215,Mathematics,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"registrar"
+5,Kathleen,Johnson,Female,robert84@lambert-navarro.com,+33 653 498 4173,Physics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+6,Ryan,Silva,Male,tracey86@gmail.com,+593 757 410 0439,Biology,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+7,Nicholas,Garrett,Other,sarah12@hotmail.com,+51 500 371 6584,Computer Science,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+8,Micheal,Porter,Female,jamie17@perkins-charles.net,+86 579 608 8317,Business Admin,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+9,Ronald,Abbott,Other,myerskimberly@gmail.com,+86 107 596 4145,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"system"
+10,Austin,Ponce,Female,moralesangel@hotmail.com,+1 203 472 6487,Mathematics,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"system"
+11,Jack,Rogers,Male,wanda28@gmail.com,+504 896 685 6025,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+12,Gregory,Aguilar,Male,robertpark@hotmail.com,+63 262 130 9082,Physics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"system"
+13,Robin,Clark,Female,morrisoncarla@underwood.com,+86 166 167 9077,Physics,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+14,Amanda,Dillon,Male,alexiscastaneda@haas-freeman.com,+351 923 166 7568,Mathematics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"system"
+15,Thomas,Lopez,Female,lgill@thomas-barker.com,+381 578 231 9486,Computer Science,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"registrar"
+16,Cody,Hill,Female,wwhite@hotmail.com,+55 192 851 1576,Electrical Engineering,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+17,Brooke,Hines,Female,ricardo64@ellis-jackson.org,+62 491 724 3914,Business Admin,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+18,James,Shaw,Other,shawncox@hotmail.com,+62 583 527 3223,Mathematics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+19,Ethan,Mckenzie,Other,dorothywelch@jarvis-baxter.com,+63 475 319 1616,Physics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+20,Jill,Gallagher,Other,sprice@yahoo.com,+81 360 521 7445,Electrical Engineering,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"system"
+21,Kenneth,Oliver,Male,luis67@yahoo.com,+63 196 583 8637,Biology,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+22,Jillian,Combs,Female,nespinoza@gmail.com,+351 710 999 7776,Physics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+23,John,Ballard,Male,mejiajessica@king.com,+387 432 162 4773,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+24,Jacob,Henson,Female,kevin99@gates.com,+7 621 374 8798,Electrical Engineering,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+25,Kyle,Smith,Female,ihughes@gmail.com,+86 738 165 4780,Mathematics,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+26,Marissa,Rodriguez,Male,nberg@bailey-chen.com,+86 564 636 1546,Business Admin,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+27,Christopher,Morales,Other,collinslaura@thompson.net,+380 303 966 0043,Biology,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+28,Anna,Cortez,Male,kpalmer@garner.com,+1 267 904 7885,Physics,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+29,Jason,Shaw,Other,teresacurtis@sawyer-kelly.com,+56 802 979 6524,Computer Science,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+30,Kristen,Garcia,Male,jharvey@walters-hudson.info,+62 118 861 5186,Biology,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+31,Austin,Sanders,Female,pamelaponce@yahoo.com,+55 418 173 0013,Mathematics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+32,Alex,Brown,Female,jenniferheath@bradford.com,+46 139 567 1015,Biology,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+33,John,Vargas,Other,gallaghertyrone@hotmail.com,+55 368 364 7145,Computer Science,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+34,Matthew,Rivera,Other,amycastillo@ruiz.com,+592 459 439 7607,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+35,Kim,Miles,Female,olsenmaria@graham-white.com,+7 228 638 3051,Computer Science,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"system"
+36,Debra,Sanders,Male,michellereynolds@gmail.com,+228 600 660 9839,Computer Science,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+37,Vincent,Torres,Male,cwright@yahoo.com,+60 754 198 3672,Electrical Engineering,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+38,Carl,Cortez,Other,richard67@gmail.com,+994 808 121 4496,Business Admin,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"registrar"
+39,Lauren,Roberson,Female,meganmcpherson@cherry.org,+51 803 858 6283,Electrical Engineering,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+40,Benjamin,Howard,Male,dlynch@gmail.com,+976 176 728 9420,Electrical Engineering,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+41,Kristin,Nunez,Male,elynch@garcia-anderson.com,+967 280 519 7454,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+42,Haley,Smith,Other,millerkurt@snyder-parker.biz,+7 674 527 7653,Electrical Engineering,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"system"
+43,Shannon,Bailey,Female,charleslee@ferrell.org,+359 964 476 3695,Electrical Engineering,200L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+44,Gregory,Decker,Female,lward@may-nunez.biz,+63 520 648 4111,Computer Science,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+45,Thomas,Parker,Other,zcastillo@yahoo.com,+962 444 974 7797,Computer Science,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"system"
+46,Robert,Blackburn,Female,jeremiah00@brown.com,+60 470 569 3018,Physics,100L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+47,Eddie,Jefferson,Female,pellis@gibson-wagner.com,+86 648 763 8446,Electrical Engineering,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+48,Dustin,Garrett,Female,tkent@yahoo.com,+31 439 727 3713,Physics,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+49,Ronald,Hubbard,Male,johnsonryan@king.com,+86 927 197 8457,Biology,400L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+50,Jeffrey,Lynn,Female,djackson@gmail.com,+46 371 875 6799,Mathematics,300L,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"admin"
+51,Sarah,Smith,Other,sarah.smith4@example.edu,-10215,Electrical Engineering,200L,6/30/2025 8:09,6/30/2025 8:09,system,system
+52,Matthew,Bowman,Female,matthew.bowman5@example.edu,-2935,Political Science,300L,6/30/2025 8:11,6/30/2025 8:11,system,system
+53,Pamela,Roberts,Male,pamela.roberts6@example.edu,-6006,Computer Science,200L,6/30/2025 8:11,6/30/2025 8:11,system,system
+54,Taylor,Gonzalez,Female,taylor.gonzalez7@example.edu,-7492,Electrical Engineering,100L,6/30/2025 8:11,6/30/2025 8:11,system,system
+55,Benjamin,Stout,Female,benjamin.stout8@example.edu,-4132,Psychology,100L,6/30/2025 8:11,6/30/2025 8:11,system,system
+56,Maria,Gilbert,Female,maria.gilbert9@example.edu,-10922,Computer Science,300L,6/30/2025 8:11,6/30/2025 8:11,system,system
+57,Sean,Ball,Male,sean.ball10@example.edu,-10047,Political Science,100L,6/30/2025 8:11,6/30/2025 8:11,system,system
+58,Larry,Good,Other,larry.good11@example.edu,-8589,Mechanical Engineering,400L,6/30/2025 8:11,6/30/2025 8:11,system,system
+59,Autumn,May,Male,autumn.may12@example.edu,-3748,Economics,100L,6/30/2025 8:11,6/30/2025 8:11,system,system
+60,Sandra,Adkins,Other,sandra.adkins13@example.edu,-4418,Mathematics,200L,6/30/2025 8:11,6/30/2025 8:11,system,system
+61,Hunter,Perkins,Other,hunter.perkins14@example.edu,-4480,Computer Science,100L,6/30/2025 8:12,6/30/2025 8:12,system,system
+62,Anthony,Walker,Female,anthony.walker15@example.edu,-4868,Mathematics,200L,6/30/2025 8:12,6/30/2025 8:12,system,system
+63,Brian,Meyers,Male,brian.meyers16@example.edu,-10521,Computer Science,300L,6/30/2025 8:12,6/30/2025 8:12,system,system
+64,Stephanie,Galloway,Male,stephanie.galloway18@example.edu,-3647,Political Science,100L,6/30/2025 8:13,6/30/2025 8:13,system,system
+65,Jeffrey,Moore,Female,jeffrey.moore19@example.edu,-1883,Business Administration,200L,6/30/2025 8:13,6/30/2025 8:13,system,system
+66,Kaitlyn,Johnson,Male,kaitlyn.johnson20@example.edu,-10049,Political Science,300L,6/30/2025 8:13,6/30/2025 8:13,system,system
+67,Zachary,Sosa,Other,zachary.sosa21@example.edu,-7774,Economics,300L,6/30/2025 8:13,6/30/2025 8:13,system,system
+68,Brent,Osborn,Other,brent.osborn22@example.edu,-9306,Psychology,400L,6/30/2025 8:13,6/30/2025 8:13,system,system
+69,Joseph,Thomas,Male,joseph.thomas23@example.edu,-6650,Mathematics,200L,6/30/2025 8:14,6/30/2025 8:14,system,system
+70,Daniel,Bush,Female,daniel.bush24@example.edu,-4083,Mechanical Engineering,100L,6/30/2025 8:14,6/30/2025 8:14,system,system
+71,Madeline,Payne,Male,madeline.payne25@example.edu,-2556,Psychology,200L,6/30/2025 8:14,6/30/2025 8:14,system,system
+72,Richard,Wood,Male,richard.wood26@example.edu,-10593,Biology,400L,6/30/2025 8:14,6/30/2025 8:14,system,system
+73,Mark,Martin,Male,mark.martin27@example.edu,-2574,Biology,400L,6/30/2025 8:14,6/30/2025 8:14,system,system
+74,Kerry,Mason,Female,kerry.mason28@example.edu,-8236,Computer Science,300L,6/30/2025 8:14,6/30/2025 8:14,system,system
+75,Marie,Rivera,Male,marie.rivera29@example.edu,-10917,Mathematics,100L,6/30/2025 8:14,6/30/2025 8:14,system,system
+76,Robert,Meyers,Other,robert.meyers30@example.edu,-5456,Business Administration,400L,6/30/2025 8:14,6/30/2025 8:14,system,system
+77,Shawn,Stevens,Other,shawn.stevens31@example.edu,-7651,Mechanical Engineering,300L,6/30/2025 8:16,6/30/2025 8:16,system,system
+78,Tracy,Harris,Male,tracy.harris32@example.edu,-1453,Economics,200L,6/30/2025 8:16,6/30/2025 8:16,system,system
+79,Kimberly,Baker,Female,kimberly.baker33@example.edu,-9744,Psychology,100L,6/30/2025 8:16,6/30/2025 8:16,system,system
+80,Jasmine,Pierce,Male,jasmine.pierce34@example.edu,-2776,Political Science,300L,6/30/2025 8:16,6/30/2025 8:16,system,system
+81,Brenda,Watkins,Female,brenda.watkins35@example.edu,-5205,Electrical Engineering,100L,6/30/2025 8:16,6/30/2025 8:16,system,system
+82,Gregory,Watts,Other,gregory.watts36@example.edu,-976,Computer Science,400L,6/30/2025 8:16,6/30/2025 8:16,system,system
+83,Steven,Craig,Male,steven.craig37@example.edu,-4098,Mathematics,100L,6/30/2025 8:16,6/30/2025 8:16,system,system
+84,Laura,Wright,Female,laura.wright38@example.edu,-8008,Biology,300L,6/30/2025 8:16,6/30/2025 8:16,system,system
+85,Carolyn,Barnes,Male,carolyn.barnes39@example.edu,-7363,Psychology,400L,6/30/2025 8:17,6/30/2025 8:17,system,system
+86,Philip,Holt,Female,philip.holt40@example.edu,-3350,Political Science,100L,6/30/2025 8:17,6/30/2025 8:17,system,system
+87,Monica,Ross,Other,monica.ross41@example.edu,-2608,Business Administration,300L,6/30/2025 8:17,6/30/2025 8:17,system,system
+88,Douglas,Hall,Male,douglas.hall42@example.edu,-6665,Electrical Engineering,300L,6/30/2025 8:17,6/30/2025 8:17,system,system
+89,Joshua,Rice,Male,joshua.rice44@example.edu,-9343,Biology,400L,6/30/2025 8:17,6/30/2025 8:17,system,system
+90,Angela,Long,Other,angela.long45@example.edu,-3655,Economics,100L,6/30/2025 8:17,6/30/2025 8:17,system,system
+91,Donald,Stone,Male,donald.stone46@example.edu,-8336,Mechanical Engineering,300L,6/30/2025 8:17,6/30/2025 8:17,system,system
+92,Emily,Reid,Female,emily.reid96@example.edu,-2997,Mechanical Engineering,100L,6/30/2025 8:18,6/30/2025 8:18,system,system
+93,Gerald,Richards,Male,gerald.richards97@example.edu,-1667,Political Science,200L,6/30/2025 8:18,6/30/2025 8:18,system,system
+94,Anna,Larson,Other,anna.larson98@example.edu,-4991,Mathematics,300L,6/30/2025 8:18,6/30/2025 8:18,system,system
+95,Harold,Fleming,Male,harold.fleming99@example.edu,-8059,Psychology,400L,6/30/2025 8:18,6/30/2025 8:18,system,system
+96,Virginia,Harvey,Female,virginia.harvey100@example.edu,-10162,Business Administration,200L,6/30/2025 8:18,6/30/2025 8:18,system,system
+97,Arthur,Gonzales,Male,arthur.gonzales81@example.edu,-9206,Economics,300L,6/30/2025 8:20,6/30/2025 8:20,system,system
+98,Lauren,Reynolds,Female,lauren.reynolds82@example.edu,-10944,Computer Science,100L,6/30/2025 8:20,6/30/2025 8:20,system,system
+99,Raymond,Palmer,Other,raymond.palmer83@example.edu,-3925,Psychology,400L,6/30/2025 8:20,6/30/2025 8:20,system,system
+100,Joan,Mendoza,Female,joan.mendoza84@example.edu,-6430,Mechanical Engineering,200L,6/30/2025 8:20,6/30/2025 8:20,system,system

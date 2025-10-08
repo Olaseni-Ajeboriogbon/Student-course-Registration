@@ -1,0 +1,29 @@
+Course_ID,Course_code,Course Title,Credits,Department,Created_date,Updated_date,created by,updated by
+1,CSE307,Software Engineering,2,Computer Science,1/15/2022 7:42,7/8/2021 18:59,registrar,admin
+2,CSE414,Computer Networks,5,Computer Science,6/28/2025 3:22,3/27/2020 4:50,system,admin
+3,CSE450,Software Engineering,3,Computer Science,8/9/2023 13:17,5/28/2024 15:50,system,registrar
+4,PHY189,Introduction to Programming,3,Physics,7/21/2023 17:03,5/22/2021 23:12,admin,registrar
+5,PHY351,Database Systems,2,Physics,3/1/2020 0:05,5/14/2023 16:13,system,admin
+6,PHY456,Quantum Mechanics,3,Physics,3/11/2020 0:06,7/26/2023 23:05,admin,registrar
+7,MAT431,Macroeconomics Principles,5,Mathematics,3/15/2025 9:35,12/19/2022 6:16,admin,admin
+8,MAT437,Calculus I,4,Mathematics,1/16/2020 10:25,11/23/2024 9:38,registrar,system
+9,MAT120,Macroeconomics Principles,3,Mathematics,10/6/2022 18:36,3/11/2022 8:44,registrar,admin
+10,BIO210,Calculus I,3,Biology,12/12/2021 22:29,10/4/2022 17:44,system,admin
+11,BIO412,Genetics and Evolution,3,Biology,10/31/2023 6:43,1/14/2025 5:49,system,system
+12,BIO427,Database Systems,4,Biology,6/10/2021 9:39,10/3/2021 8:58,admin,registrar
+13,EEE315,Macroeconomics Principles,3,Electrical Engineering,4/1/2024 2:12,1/7/2023 9:06,admin,system
+14,EEE184,Computer Networks,2,Electrical Engineering,10/25/2023 17:20,4/26/2020 18:05,admin,system
+15,EEE148,Database Systems,3,Electrical Engineering,3/15/2023 13:46,10/30/2022 22:43,system,admin
+16,BUS423,Thermodynamics,3,Business Admin,2/3/2020 6:09,11/2/2021 3:28,admin,registrar
+17,BUS471,Data Structures and Algorithms,2,Business Admin,10/6/2020 21:01,5/17/2025 10:09,system,registrar
+18,BUS488,Linear Algebra,3,Business Admin,8/22/2020 16:13,3/22/2024 10:45,registrar,admin
+19,CS101,Introduction to Programming,1,Computer Science,6/29/2025 23:27,6/29/2025 23:27,system,system
+20,CS102,Data Structures,2,Data Science,6/29/2025 23:27,6/29/2025 23:27,system,system
+21,CS201,Algorithms,3,Data Science,6/29/2025 23:27,6/29/2025 23:27,system,system
+22,CS202,Database Systems,2,Data Science,6/29/2025 23:27,6/29/2025 23:27,system,system
+23,CS203,Operating Systems,2,Computer Science,6/29/2025 23:27,6/29/2025 23:27,system,system
+24,CS301,Software Engineering,3,Computer Engineering,6/29/2025 23:27,6/29/2025 23:27,system,system
+25,CS302,Computer Networks,3,Computer Engineering,6/29/2025 23:27,6/29/2025 23:27,system,system
+26,CS401,Machine Learning,3,Computer Engineering,6/29/2025 23:27,6/29/2025 23:27,system,system
+27,CS402,Artificial Intelligence,4,Computer science,6/29/2025 23:27,6/29/2025 23:27,system,system
+28,CS103,Web Development,2,Computer Science,6/29/2025 23:27,6/29/2025 23:27,system,system

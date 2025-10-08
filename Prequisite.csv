@@ -1,0 +1,11 @@
+Course_ID,Prerequisite_ID,Course,Prerequisite_Code,Created_date,Updated_date,"created by","updated by"
+19,1,"Introduction to Programming",CS101,"2025-06-29 20:27:12","2025-06-30 14:03:52",system,system
+20,2,"Data Structures",CS102,"2025-06-29 20:27:12","2025-06-30 14:04:36",system,system
+21,3,Algorithms,CS201,"2025-06-29 20:27:12","2025-06-30 14:04:52",system,system
+22,4,"Database Systems",CS202,"2025-06-29 20:27:12","2025-06-30 14:05:05",system,system
+23,5,"Operating Systems",CS203,"2025-06-29 20:27:12","2025-06-30 14:05:34",system,system
+24,6,"Software Engineering",CS301,"2025-06-29 20:27:12","2025-06-30 14:05:47",system,system
+25,7,"Computer Networks",CS302,"2025-06-29 20:27:12","2025-06-30 14:06:00",system,system
+26,8,"Machine Learning",CS401,"2025-06-29 20:27:12","2025-06-30 14:06:13",system,system
+27,9,"Artificial Intelligence",CS402,"2025-06-29 20:27:12","2025-06-30 14:06:55",system,system
+28,10,"Web Development",CS103,"2025-06-29 20:27:12","2025-06-30 14:07:11",system,system

@@ -1,0 +1,13 @@
+Instructor_Id,First Name,Last Name,Email,Department,Created_date,Updated_date,created by,updated by
+1,Vladimir,Caris,vcaris0@webeden.co.uk,Physics,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+2,Rudyard,Maroney,rmaroney1@pagesperso-orange.fr,Business Admin,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+3,Ruthanne,Simonutti,rsimonutti2@wufoo.com,Computer Science,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+4,Dean,Burdon,dburdon3@mozilla.org,Physics,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"registrar"
+5,Roderick,Pelos,rpelos4@businessinsider.com,Mathematics,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+6,Jo,Rymill,jrymill5@blog.com,Electrical Engineering,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"system"
+7,Marinna,Shirt,mshirt6@163.com,Mathematics,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"system"
+8,Kaitlin,Shingler,kshingler7@un.org,Biology,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+9,Lezlie,Lamort,llamort8@oaic.gov.au,Biology,0000-00-00 00:00:00,0000-00-00 00:00:00,registrar,"admin"
+10,Patric,Hempshall,phempshall9@imdb.com,Computer Science,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
+11,John,Green,JnGreen@wufoo.com,Business Admin,0000-00-00 00:00:00,0000-00-00 00:00:00,system,"admin"
+12,Wayne,Jackson,wjackson@outdoorcom,Electrical Engineering,0000-00-00 00:00:00,0000-00-00 00:00:00,admin,"registrar"
