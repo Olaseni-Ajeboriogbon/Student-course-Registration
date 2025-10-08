@@ -2,32 +2,13 @@
 
 This Project defines a student database management system called DataKirk.
 
-The schema includes:
+## DataKirk Student Database – Technical Schema Report
 
-Courses — details of academic courses.
-
-Prerequisite_Table — course dependencies.
-
-Student Table — student information.
-
-Course Offering — links courses, instructors, and students per semester.
-
-Instructor Table — faculty data.
-
-Grade Table — grading schema.
-
-(Likely continues with Enrollment, based on the last line.)
-
-Here’s a clean, professional technical report summary you can include in your GitHub repository:
-
-:::writing{id="59381", title="DataKirk Student Database – Technical Schema Report"}
-
-DataKirk Student Database – Technical Schema Report
-Overview
+### Overview
 
 The DataKirk Student Database is a structured relational database designed to manage academic information for an educational institution. It centralizes data about students, instructors, courses, prerequisites, enrollments, and grades, ensuring integrity through relational constraints and timestamp-based auditing.
 
-Database Design
+### Database Design
 1. Courses
 
 Stores all course-related information such as course code, title, credits, and department.
@@ -98,10 +79,10 @@ Purpose: Provides standardized grading across the system.
 
 7. Enrollment
 
-(Defined later in the file.)
+(whic was Defined later in the file.)
 Expected to record the association between students and courses, linking with grades and course offerings.
 
-Key Design Features
+### Key Design Features
 
 Relational Integrity: All dependent entities use foreign key constraints to maintain referential accuracy.
 
