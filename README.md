@@ -1,6 +1,8 @@
 # Student-course-Registration
 
-This Project defines a student database management system called DataKirk.
+This Project defines a student database management system created for DataKirk tutorial Hub.
+
+Click [here](Datakirk_Student_Academic_DB.sql) to have a glance at the code.
 
 ## DataKirk Student Database – Technical Schema Report
 
