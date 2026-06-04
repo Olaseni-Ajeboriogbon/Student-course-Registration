@@ -196,7 +196,7 @@ VALUES
 /* Creating a trigger for enrolment table for student when enrolled for a course on the course offering table
 Whenever data is inputted into the course offering table, the trigger fires and automatically populate the enrollment table*/
     
-/*   DELIMITER $$
+   DELIMITER $$
 
 CREATE TRIGGER Enrolment_status
 AFTER INSERT ON `course offering`
@@ -210,7 +210,7 @@ DELIMITER ;
 
 -- This trigger is to populate the Grade column on the student academic records using case statement
 
-/*DELIMITER $$ 
+DELIMITER $$ 
 
 CREATE TRIGGER Student_Grade_Assessment
 BEFORE INSERT ON `Student_Academic_Records` 
@@ -235,7 +235,7 @@ BEGIN
         END;
 END$$
 
-DELIMITER ;*/
+DELIMITER ;
 
 
 
@@ -246,7 +246,7 @@ FROM
     
 -- Inserting records into the academic records table to test the functionality of the trigger--
 
-/*INSERT INTO Student_Academic_Records
+INSERT INTO Student_Academic_Records
 (Student_ID, Offering_ID, course_code, score,`created by`, `updated by`)
 VALUES
 (1, 3, 'CSE450', 14,'Admin', 'Admin'),
@@ -274,7 +274,7 @@ VALUES
 (12, 25, 'CS302', 32,'Admin', 'Admin'),
 (12, 26, 'CS401', 75, 'Admin', 'Admin'),
 (12, 27, 'CS402', 57, 'Admin', 'Admin'),
-(13, 28, 'CS103', 21,  'Admin', 'Admin');*/
+(13, 28, 'CS103', 21,  'Admin', 'Admin');
 
 -- Creating views for student data informarion and Instructors data Information
 
